@@ -11,6 +11,14 @@ section {
   padding: 150px 0;
 }
 
+.navbar-dark .navbar-brand{
+  transition: all .3s ease-in-out;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+  transition: all .3s ease-in-out;
+}
+
 .navbar-dark .navbar-brand:hover{
   color: rgb(77, 245, 35);
 }
