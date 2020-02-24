@@ -33,5 +33,6 @@ section {
 
 .bg-primary{
   background-image: url("../images/green_leaves.jpg");
-  background-position: 100%;
+  background-size: 100%;
+  background-position: 50% 50%;
 }
