@@ -11,6 +11,18 @@ section {
   padding: 150px 0;
 }
 
+.navbar-dark .navbar-brand:hover{
+  color: rgb(77, 245, 35);
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+  color: rgb(77, 245, 35);
+}
+
+.bg-primary h1, .bg-primary p{
+  text-shadow: 0 0 8px rgb(5, 20, 11);
+}
+
 .bg-primary{
   background-image: url("../images/green_leaves.jpg");
   background-position: 100%;
