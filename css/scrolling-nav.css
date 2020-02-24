@@ -10,3 +10,8 @@ header {
 section {
   padding: 150px 0;
 }
+
+.bg-primary{
+  background-image: url("../images/green_leaves.jpg");
+  background-position: 100%;
+}
