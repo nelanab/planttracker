@@ -11,6 +11,18 @@ section {
   padding: 150px 0;
 }
 
+.bg-primary h1, .navbar-brand, h2{
+  font-family: 'Fredoka One';
+}
+
+.bg-dark{
+  background-color: #333333!important;
+}
+
+h1{
+  font-size: 4em;
+}
+
 .navbar-dark .navbar-brand{
   transition: all .3s ease-in-out;
 }
@@ -29,6 +41,16 @@ section {
 
 .bg-primary h1, .bg-primary p{
   text-shadow: 0 0 8px rgb(5, 20, 11);
+}
+
+.bg-primary p{
+  font-size: 1.5em;
+  font-family: 'Roboto';
+}
+
+body{
+  font-family: 'Roboto';
+  color: #333333!important;
 }
 
 .bg-primary{
