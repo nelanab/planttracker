@@ -19,6 +19,11 @@ section {
   background-color: #333333!important;
 }
 
+.bg-light{
+  background-image: url("../images/Artboard 1.png");
+  background-size: 100%;
+}
+
 h1{
   font-size: 4em;
 }
