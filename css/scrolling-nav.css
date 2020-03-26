@@ -1,0 +1,66 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+header {
+  padding: 156px 0 100px;
+}
+
+section {
+  padding: 150px 0;
+}
+
+.bg-primary h1, .navbar-brand, h2{
+  font-family: 'Fredoka One';
+}
+
+.bg-dark{
+  background-color: #333333!important;
+}
+
+.bg-light{
+  background-image: url("../images/Artboard 1.png");
+  background-size: 100%;
+}
+
+h1{
+  font-size: 4em;
+}
+
+.navbar-dark .navbar-brand{
+  transition: all .3s ease-in-out;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+  transition: all .3s ease-in-out;
+}
+
+.navbar-dark .navbar-brand:hover{
+  color: rgb(77, 245, 35);
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+  color: rgb(77, 245, 35);
+}
+
+.bg-primary h1, .bg-primary p{
+  text-shadow: 0 0 8px rgb(5, 20, 11);
+}
+
+.bg-primary p{
+  font-size: 1.5em;
+  font-family: 'Roboto';
+}
+
+body{
+  font-family: 'Roboto';
+  color: #333333!important;
+}
+
+.bg-primary{
+  background-image: url("../images/green_leaves.jpg");
+  background-size: 100%;
+  background-position: 50%;
+}
+
