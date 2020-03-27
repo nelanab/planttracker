@@ -1,3 +1,6 @@
+[Production Code](http://floraminder.company/production/)
+[Staging Code](http://floraminder.company/staging/)
+
 # Contents
 * [Team Notes](https://github.com/nelanab/planttracker#team-notes)
 * [Branches Explained](https://github.com/nelanab/planttracker#branches-explained)
