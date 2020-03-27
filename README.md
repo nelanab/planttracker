@@ -1,5 +1,5 @@
-[Production Code](http://floraminder.company/production/)
-[Staging Code](http://floraminder.company/staging/)
+- [Production Code](http://floraminder.company/production/)
+- [Staging Code](http://floraminder.company/staging/)
 
 # Contents
 * [Team Notes](https://github.com/nelanab/planttracker#team-notes)
@@ -19,7 +19,7 @@
 
 # Branches Explained
 ## master
-Contains production-level approved code (_shipped product_). Only code from `staging` should be merged into `master` with a [pull request](https://github.com/nelanab/planttracker/compare/master...staging?expand=1).
+Contains production-level approved code (_shipped_ product). Only code from `staging` should be merged into `master` with a [pull request](https://github.com/nelanab/planttracker/compare/master...staging?expand=1).
 ## staging
 Contains beta code (_potentially_ shippable product). Only code from individual team members' working branches should be merged into `staging` with a [pull request](https://github.com/nelanab/planttracker/compare/staging...).
 ## individual working branches
