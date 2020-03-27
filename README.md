@@ -86,7 +86,7 @@ Anticipated low population of real users to source feedback from.
 Expiration of development services licensed under education accounts.
 
 # Economic Feasibility
-## Training to further indiidual knowedge
+## Training to further individual knowedge
 Alotting productive development time for self-study of development tools and services utilized for the project.
 ## Ease of maintenance
 Development tools and services facilitating the adding, removing or updating of features & time spent and saved doing so.
