@@ -21,7 +21,6 @@ Contains production-level approved code (_shipped product_). Only code from `sta
 Contains beta code (_potentially_ shippable product). Only code from individual team members' working branches should be merged into `staging` with a [pull request](https://github.com/nelanab/planttracker/compare/staging...).
 ## individual working branches
 Contains individual team members' code that they are currently working on, which should only be pulled from `staging`.
----
 
 # Project Name
 ### Floraminder
